@@ -1,0 +1,10 @@
+* named-read-macros
+
+Make read macros more Lispy. Attach read macros to symbols.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/williamyaoh/named-read-macros.git   |
+| commit  | 560e7d2  |
+| systems | named-read-macros |
+|---------+-------------------------------------------|
+
